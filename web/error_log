@@ -1,0 +1,77 @@
+[11-Jul-2023 15:03:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 86
+[11-Jul-2023 15:03:51 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/crypbwsn/cryptotrost/web/backend-logic.php:89
+Stack trace:
+#0 /home/crypbwsn/cryptotrost/web/backend-logic.php(89): mysqli->query()
+#1 /home/crypbwsn/cryptotrost/web/login.php(8): SelectDb->login()
+#2 {main}
+  thrown in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 89
+[11-Jul-2023 15:48:46 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-gateway.php on line 2
+[11-Jul-2023 16:12:43 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 180
+[11-Jul-2023 16:13:04 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 180
+[11-Jul-2023 16:13:21 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 180
+[11-Jul-2023 16:15:48 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 180
+[11-Jul-2023 16:15:52 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 180
+[11-Jul-2023 16:15:58 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 180
+[11-Jul-2023 16:16:51 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 180
+[11-Jul-2023 16:29:21 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-gateway.php on line 2
+[11-Jul-2023 18:55:27 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-gateway.php on line 2
+[14-Jul-2023 07:43:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 5
+[14-Jul-2023 07:43:11 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php:7
+Stack trace:
+#0 /home/crypbwsn/cryptotrost/web/redeem-gift-card.php(7): mysqli->query()
+#1 /home/crypbwsn/cryptotrost/web/index.php(159): require('/home/crypbwsn/...')
+#2 {main}
+  thrown in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 7
+[14-Jul-2023 07:43:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 5
+[14-Jul-2023 07:43:14 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php:7
+Stack trace:
+#0 /home/crypbwsn/cryptotrost/web/redeem-gift-card.php(7): mysqli->query()
+#1 /home/crypbwsn/cryptotrost/web/index.php(159): require('/home/crypbwsn/...')
+#2 {main}
+  thrown in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 7
+[14-Jul-2023 07:43:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 5
+[14-Jul-2023 07:43:16 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php:7
+Stack trace:
+#0 /home/crypbwsn/cryptotrost/web/redeem-gift-card.php(7): mysqli->query()
+#1 /home/crypbwsn/cryptotrost/web/index.php(159): require('/home/crypbwsn/...')
+#2 {main}
+  thrown in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 7
+[14-Jul-2023 07:46:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 156
+[14-Jul-2023 07:46:42 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php:158
+Stack trace:
+#0 /home/crypbwsn/cryptotrost/web/redeem-gift-card.php(158): mysqli->query()
+#1 {main}
+  thrown in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 158
+[14-Jul-2023 07:46:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 156
+[14-Jul-2023 07:46:53 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php:158
+Stack trace:
+#0 /home/crypbwsn/cryptotrost/web/redeem-gift-card.php(158): mysqli->query()
+#1 {main}
+  thrown in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 158
+[14-Jul-2023 07:47:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 156
+[14-Jul-2023 07:47:21 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php:158
+Stack trace:
+#0 /home/crypbwsn/cryptotrost/web/redeem-gift-card.php(158): mysqli->query()
+#1 {main}
+  thrown in /home/crypbwsn/cryptotrost/web/redeem-gift-card.php on line 158
+[14-Jul-2023 07:50:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/crypbwsn/cryptotrost/web/fetch_gift_card.php on line 3
+[14-Jul-2023 07:50:05 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/crypbwsn/cryptotrost/web/fetch_gift_card.php:9
+Stack trace:
+#0 /home/crypbwsn/cryptotrost/web/fetch_gift_card.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/crypbwsn/cryptotrost/web/fetch_gift_card.php on line 9
+[14-Jul-2023 07:50:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/crypbwsn/cryptotrost/web/fetch_gift_card.php on line 3
+[14-Jul-2023 07:50:05 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/crypbwsn/cryptotrost/web/fetch_gift_card.php:9
+Stack trace:
+#0 /home/crypbwsn/cryptotrost/web/fetch_gift_card.php(9): mysqli->query()
+#1 {main}
+  thrown in /home/crypbwsn/cryptotrost/web/fetch_gift_card.php on line 9
+[14-Jul-2023 09:19:08 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-gateway.php on line 2
+[14-Jul-2023 10:17:28 UTC] PHP Warning:  Undefined array key "password" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 166
+[14-Jul-2023 10:17:28 UTC] PHP Warning:  Undefined array key "oldpassword" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 168
+[14-Jul-2023 10:17:28 UTC] PHP Warning:  Undefined array key "password2" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 170
+[14-Jul-2023 10:20:41 UTC] PHP Warning:  Undefined array key "password" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 166
+[14-Jul-2023 10:20:41 UTC] PHP Warning:  Undefined array key "oldpassword" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 168
+[14-Jul-2023 10:20:41 UTC] PHP Warning:  Undefined array key "password2" in /home/crypbwsn/cryptotrost/web/backend-logic.php on line 170
+[14-Jul-2023 12:15:50 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-gateway.php on line 2
+[14-Jul-2023 17:31:04 UTC] PHP Warning:  Undefined array key "id" in /home/crypbwsn/cryptotrost/web/backend-gateway.php on line 2

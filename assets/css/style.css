@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+	font-family: 'Poppins', sans-serif;
+}
+
+body, html{
+	margin: 0;
+	padding: 0;
+}
+
+.header-session, .menu-mi-screen{
+	background: #105BAA;
+}
+.menu-item a, .steps{
+	font-family: 600 !important;
+}
+
+.footer-container{
+	background: #105BAA;
+}
+
+.dashboard-panel{
+	background: url(../img/dashboard-panel.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
